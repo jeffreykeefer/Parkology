@@ -35,13 +35,14 @@ We can really use your help in our goal of helping to empower members of the com
 If you think everyone should be within a 10-minute walk of a quality park, then please check out our code of conduct and our roadmap to discover how Parkology can help us all with local, community-based parks. 
 
 # Contact us
-If you have any questions, comments, or feedback, please email Natalie or Jeffrey. Likewise you can also Tweet us at @garciajnatalie or @JeffreyKeefer.
+If you have any questions, comments, or feedback, please email <a href="mailto:natalie.garcia@tpl.org">Natalie</a> or <a href="mailto:jeffrey.keefer@tpl.org">Jeffrey</a>. Likewise you can also Tweet us at @garciajnatalie or @JeffreyKeefer.
 
 # Resources
 You may be interested in these open resources that inspired our work:
 - <a href="https://mozilla.github.io/open-leadership-training-series/articles/open-leadership-outro-and-next-steps/next-steps-for-open-leadership/">Open Leadership Training Series: Best Practices Working Open</a>
 - <a href="https://hiveresearchlab.files.wordpress.com/2014/12/what-does-it-mean-to-work-open-in-hive-nyc-hive-research-lab-october-2014.pdf">What does it mean to ‘Work Open’ in Hive NYC? A Vision for Collective Organizational Learning Hive Research Lab (October 2014)</a> 
 - <a href="https://mozilla.teachable.com/courses/open-leadership-101/lectures/2337261">Open Leadership Practices: Open Leadership 101</a>
+
 Links to our project documents:
 - <a href="https://drive.google.com/open?id=1xu62ihxwXyiv1_nscbNWf2WEFdN75vxZA8UMfdPtdrA">Our Open Canvas</a> (helps focus and define the project needs, goals, and strategy)
 - Code of Conduct
