@@ -26,3 +26,8 @@ Jeffrey is . . . Director of Training & Knowledge Management + Educational Resea
 # What do we need?
 Our hope for Parkology is that all members of urban communities will be able to share ideas, tools, and resources to be empowered to promote access to a quality park within a 10-minute walk from their homes. We hope to attract local community members across the United States who are passionate about improving access to and quality of green spaces in their neighborhoods. 
 
+We can really use your help in our goal of helping to empower members of the community to work towards achieving a park or quality green space within a <a href="10minutewalk.org">10-Minute Walk</a> from home. We especially need assistance with:
+- <b>Community feedback</b> on our <a href="www.parkology.org">Parkology</a> website. Please take a look at the site and let us know what you think. Can you navigate around the site? Are you able to find resources?
+- <b>Community engagement</b> on our Parkology website. Can you join our online community and check it out? Can you post or respond to a question or comment? Can you find other park advocates or community members near you? Can you find or suggest resources based on your interests?
+- <b>Global Sprint.</b> We are hoping to share and engage with community members during the Mozilla Global Sprint and would value your feedback whether we should apply to be a site host in New York City where we can work on Parkology and other local projects together. 
+
