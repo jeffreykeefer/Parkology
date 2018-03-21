@@ -35,7 +35,7 @@ We can really use your help in our goal of helping to empower members of the com
 If you think everyone should be within a 10-minute walk of a quality park, then please check out our code of conduct and our roadmap to discover how Parkology can help us all with local, community-based parks. 
 
 # Contact us
-If you have any questions, comments, or feedback, please email <a href="mailto:natalie.garcia@tpl.org">Natalie</a> or <a href="mailto:jeffrey.keefer@tpl.org">Jeffrey</a>. Likewise you can also Tweet us at <a href="https://twitter.com/garciajnatalie">@garciajnatalie</a> or <a href="https://twitter.com/JeffreyKeefer">@JeffreyKeefer</a>.
+If you have any questions, comments, or feedback, please email <a href="mailto:natalie.garcia@tpl.org">Natalie</a> or <a href="mailto:jeffrey.keefer@tpl.org">Jeffrey</a>. Likewise, you can also Tweet us at <a href="https://twitter.com/garciajnatalie">@garciajnatalie</a> or <a href="https://twitter.com/JeffreyKeefer">@JeffreyKeefer</a>.
 
 # Resources
 You may be interested in these open resources that inspired our work:
