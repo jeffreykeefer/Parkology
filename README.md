@@ -5,10 +5,10 @@ Parkology will be the open, online community to share ideas, tools, and resource
 Thank you for visiting <i><a href="www.parkology.org">Parkology</a>: An Open Online Community for People Who Love Parks</i>. This work is part of our participation in the <a href="https://mozilla.github.io/leadership-training/">Mozilla Open Leaders, Round 5</a> initiative.
 
 # What are we doing?
-## The problem
+<b> The problem</b> 
 Barriers exist in the ability for people to advocate for local parks. These include lack of knowledge, limits to resources, and the inability to collaborate and share best practices with other park advocates in the community. Parks professionals already have their own communities, networks, and access to resources, though local grassroots members of the community do not have these resources currently. 
 
-## The solution
+<b>The solution</b> 
 An open, online platform to strengthen communities facing disparities in a fair allocation of resources.
 
 # Who are we?
