@@ -39,10 +39,10 @@ If you have any questions, comments, or feedback, please email Natalie or Jeffre
 
 # Resources
 You may be interested in these open resources that inspired our work:
-- Open Leadership Training Series: Best Practices Working Open
-- What does it mean to ‘Work Open’ in Hive NYC? A Vision for Collective Organizational Learning Hive Research Lab (October 2014) 
-- Open Leadership Practices: Open Leadership 101
+- <a href="https://mozilla.github.io/open-leadership-training-series/articles/open-leadership-outro-and-next-steps/next-steps-for-open-leadership/">Open Leadership Training Series: Best Practices Working Open</a>
+- <a href="https://hiveresearchlab.files.wordpress.com/2014/12/what-does-it-mean-to-work-open-in-hive-nyc-hive-research-lab-october-2014.pdf">What does it mean to ‘Work Open’ in Hive NYC? A Vision for Collective Organizational Learning Hive Research Lab (October 2014)</a> 
+- <a href="https://mozilla.teachable.com/courses/open-leadership-101/lectures/2337261">Open Leadership Practices: Open Leadership 101</a>
 Links to our project documents:
-- Our Open Canvas (helps focus and define the project needs, goals, and strategy)
+- <a href="https://drive.google.com/open?id=1xu62ihxwXyiv1_nscbNWf2WEFdN75vxZA8UMfdPtdrA">Our Open Canvas</a> (helps focus and define the project needs, goals, and strategy)
 - Code of Conduct
-- Roadmap
+- <a href="https://docs.google.com/document/d/1grbyKIVxqvSgb_3tg93BxDtgR6ZQzLcXCy8W_p9ceo8/edit?usp=sharing">Roadmap</a>
