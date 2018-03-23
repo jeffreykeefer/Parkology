@@ -45,5 +45,5 @@ You may be interested in these open resources that inspired our work:
 
 Links to our project documents:
 - <a href="https://drive.google.com/open?id=1xu62ihxwXyiv1_nscbNWf2WEFdN75vxZA8UMfdPtdrA">Our Open Canvas</a> (helps focus and define the project needs, goals, and strategy)
-- <a href="https://docs.google.com/document/d/1reyQLnBVGmWPXeSBdYZYPA5q_8xwsawvahzh8m_7t1A/edit>Code of Conduct</a>
+- <a href="https://docs.google.com/document/d/1reyQLnBVGmWPXeSBdYZYPA5q_8xwsawvahzh8m_7t1A/edit">Code of Conduct</a>
 - <a href="https://docs.google.com/document/d/1grbyKIVxqvSgb_3tg93BxDtgR6ZQzLcXCy8W_p9ceo8/edit?usp=sharing">Roadmap</a>
