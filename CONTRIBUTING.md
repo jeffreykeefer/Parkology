@@ -15,7 +15,7 @@ As a participant and Parkology community member, you are expected to uphold this
 
 ## Resources
 
-Please review our [README](README.md) and Road Map. 
+Please review our [README](README.md) and Road Map to have a better understanding of our project. 
 
 This is a good place to link your Roadmap, GitHub Milestones, or Projects so newcomers can see what you're working on.
 
