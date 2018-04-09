@@ -1,7 +1,5 @@
 # Contributing to Parkology
-The following is a set of guidelines and suggestions for contributing to www.parkology.org. While you interact with our online community, feel free to propose changes to this file. 
-
-Parkology will be the open, online community to share ideas, tools, and resources for people who love quality parks within a 10-Minute Walk from home.
+>Thank you for taking the time to contribute to Parkology. The following is a set of guidelines and suggestions for contributing to www.parkology.org. While you interact with our online community, feel free to propose changes to this file. 
 
 Add some info on *why* people should read your contributor guidelines and *what* they are.
 
