@@ -13,5 +13,5 @@ Together, we can support communities to improve their local green spaces and inc
 Parkology moderators are responsible for clarifying the standards of acceptable behavior and are expected to take fair, corrective action in response to any instances of unacceptable behavior. This may include right and responsibility to remove, edit, or limit comments and other contributions that are not aligned to this code of conduct, or to ban temporarily or permanently any contributor for other behaviors that they deem inappropriate, threatening, offensive, or harmful.
 
 
-### Questions?
+## Questions?
 Feel free to <a href="mailto:info@parkology.org">contact us</a> for any questions or concerns.
