@@ -1,4 +1,4 @@
-# Park License
+# Parkology License
 
 At this time, The Trust for Public Land's legal department has provided a <a href="https://www.parkology.org/ParkShowPages?id=a1646000000cWD4AAM">Legal Disclosure and Terms of Use</a> for Parkology. 
 
