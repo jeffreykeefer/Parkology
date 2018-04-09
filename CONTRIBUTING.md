@@ -13,7 +13,7 @@ Add some info on *why* people should read your contributor guidelines and *what*
 As a participant and Parkology community member, you are expected to uphold this <a href="https://www.parkology.org/ParkShowPages?id=a1646000004sY3KAAU">code of conduct</a>. If you have any questions or would like to report unacceptable behavior please <a href="mailto:info@parkology.org">contact us</a>. 
 
 
-## What we're working on
+## Resources
 
 This is a good place to link your Roadmap, GitHub Milestones, or Projects so newcomers can see what you're working on.
 
