@@ -1,49 +1,46 @@
 # Contributing to Parkology
->Thank you for taking the time to contribute to Parkology. The following is a set of guidelines and suggestions for contributing to www.parkology.org. While you interact with our online community, feel free to propose changes to this file. 
 
-Add some info on *why* people should read your contributor guidelines and *what* they are.
+Thank you for taking the time to contribute to Parkology. The following is a set of guidelines and suggestions for contributing to www.parkology.org. While you interact with our online community, feel free to propose changes to this file. 
 
-* [Participation guidelines](#participation-guidelines)
-* [What we're working on](#what-were-working-on)
-* [How to submit changes](#how-to-submit-changes)
-* [How to report bugs](#how-to-report-bugs)
-* [Communication channels](#communication-channels)
+>Together, we can support communities to improve their local green spaces and increase access to quality, close to home parks.
+
 
 ## Participation guidelines
+
 As a participant and Parkology community member, you are expected to uphold this <a href="https://www.parkology.org/ParkShowPages?id=a1646000004sY3KAAU">code of conduct</a>. If you have any questions or would like to report unacceptable behavior please <a href="mailto:info@parkology.org">contact us</a>. 
 
 
 ## Resources
 
-Please review our [README](README.md) and Road Map to have a better understanding of our project. 
+Please review our [README](README.md) and Road Map to have a better understanding of this project. 
 
-This is a good place to link your Roadmap, GitHub Milestones, or Projects so newcomers can see what you're working on.
 
-> Take a look at the issues in our [current milestone](https://github.com/acabunoc/mozfest-repo-template/milestone/1) or browse some [good first bugs](https://github.com/acabunoc/mozfest-repo-template/labels/good%20first%20bug) to get started!
+## How to participate in the Parkology community
 
-Take a look at this [Roadmapping exercise](http://mozillascience.github.io/working-open-workshop/roadmapping/) to start making your own milestones and issues. This will help newcomers (& MozFest attendees!) know where they can help.
+1. Visit www.parkology.org
+2. Sign up - to add to the parkology community and interact with users, first sign up on www.parkology.org 
+3. <a href="https://www.parkology.org/ParkChatterGroupsList">Groups</a> - Join a group that you are interested in adding to or a topic that you are interested in learning more about. Post a comment, question, or resource to the group. 
+4. Q&A - post a question to the community about stewarding, creating, programming, etc a greenspace or local park
+5. Suggesting enhancements - how is the user experience? Did you find anything confusing or hard to find?
+6. Evaluating pathways - 
+7. Park Stories: Read, comment, or upload your own experience with creating and stewarding local parks
+8. Events: RSVP for an upcoming event
+9. Invite a friend to join the community that is interested in advocating for and supporting local greenspace 
 
-## How to submit changes
 
-Explain how you want contributors to propose changes. For an example GitHub workflow, see Node.js's [instructions for code contributions](https://github.com/nodejs/node/blob/master/CONTRIBUTING.md#code-contributions).
+## We appreciate your feedback
+
+Notice a mistake? Please file any bugs, comments, or questions in our issue tracker [LINK TO ISSUE TRACKER] or by emailing us at <a href="mailto:info@parkology.org">info@parkology.org</a>. 
+
+
+## Learning Github
+
+> All contributions to Parkology can be found and completed on www.parkology.org, if you wish to navigate our list of issues to contribute on Github, here is an example GitHub workflow from Node.js's [instructions for code contributions](https://github.com/nodejs/node/blob/master/CONTRIBUTING.md#code-contributions).
+
+> First time contributing to open source? Check out this *free* series, [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github).
 
 > Once you've identified one of the issues above that you feel you can contribute to, you're ready to make a change to the project repository!
  
 > 1. **[Fork](https://help.github.com/articles/fork-a-repo/) this repository**. This makes your own version of this project you can edit and use.
 > 2. **[Make your changes](https://guides.github.com/activities/forking/#making-changes)**! You can do this in the GitHub interface on your own local machine. Once you're happy with your changes...
 > 3. **Submit a [pull request](https://help.github.com/articles/proposing-changes-to-a-project-with-pull-requests/)**. This opens a discussion around your project and lets the project lead know you are proposing changes.
-
-> First time contributing to open source? Check out this *free* series, [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github).
-
-## How to report bugs
-
-Ask your contributors to stay on the lookout for can any potential issue that might cause problems for the project. These could be problems in code (if you’re creating software), content omissions or copy errors (if you’re creating a learning resource), or any issues with the functionality or design of your project. 
-
-Most projects invite all contributors to report bugs, so "debugging" or fixing problems happens quickly and with the input of the community. Take a look at [Atom's example](https://github.com/atom/atom/blob/master/CONTRIBUTING.md#reporting-bugs) for how to teach people to report bugs to your project.
-
-> Notice a mistake? Please file any bugs, requests, or questions in our issue tracker [LINK TO ISSUE TRACKER]!
-
-## Communication channels
-
-Do you have a chat room or email list you use to discuss this project? List them all here! Provide clear contact info, and outline the process for getting in touch, for anyone with questions.
-
