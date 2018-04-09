@@ -17,14 +17,14 @@ Please review our [README](README.md) and Road Map to have a better understandin
 
 ## How to participate in the Parkology community
 
+You can view tasks on how to contribute to Parkology below and in our <a href="https://github.com/jeffreykeefer/Parkology/issues">open issues</a>. 
+
 1. Visit www.parkology.org
 2. Sign up - to add to the parkology community and interact with users, first sign up on www.parkology.org 
 3. <a href="https://www.parkology.org/ParkChatterGroupsList">Groups</a> - Join a group that you are interested in adding to or a topic that you are interested in learning more about. Post a comment, question, or resource to the group. 
-4. Q&A - post a question to the community about stewarding, creating, programming, etc a greenspace or local park
-5. Suggesting enhancements - how is the user experience? Did you find anything confusing or hard to find?
-6. Evaluating pathways - 
-7. Park Stories: Read, comment, or upload your own experience with creating and stewarding local parks
-8. Events: RSVP for an upcoming event
+4. <a href="https://www.parkology.org/ParkTopics?id=0TO46000000PFpHGAW">Q&A</a> - post a question to the community about stewarding, creating, programming, etc a greenspace or local park
+7. <a href="https://www.parkology.org/ParkStories">Park Stories</a> - Read, comment, or upload your own experience with creating and stewarding local parks
+8. <a href="https://www.parkology.org/ParkEvents">Events</a> - RSVP for an upcoming event or create on of your own
 9. Invite a friend to join the community that is interested in advocating for and supporting local greenspace 
 
 
