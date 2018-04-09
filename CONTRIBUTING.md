@@ -1,16 +1,9 @@
 # Contributing to Parkology
+The following is a set of guidelines and suggestions for contributing to www.parkology.org. While you interact with our online community, feel free to propose changes to this file. 
 
-Add a bit of welcome and cheer at the top
->Thank you for your interest in contributing to [Project] :tada:! 
-
-Restart your project vision here. Redundancy is your friend
->[Project] is ...
+Parkology will be the open, online community to share ideas, tools, and resources for people who love quality parks within a 10-Minute Walk from home.
 
 Add some info on *why* people should read your contributor guidelines and *what* they are.
-
->This documents is a set of guidelines for contributing to [Project] on GitHub. These are guidelines, not rules. This guide is meant to make it easy for you to get involved.
-
-If your guide is long, consider adding a table of contents.
 
 * [Participation guidelines](#participation-guidelines)
 * [What we're working on](#what-were-working-on)
@@ -21,6 +14,9 @@ If your guide is long, consider adding a table of contents.
 ## Participation guidelines
 
 This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [EMAIL].
+
+As a participant and community member, you are expected to uphold this code.
+
 
 ## What we're working on
 
