@@ -10,10 +10,7 @@ Add some info on *why* people should read your contributor guidelines and *what*
 * [Communication channels](#communication-channels)
 
 ## Participation guidelines
-
-This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [EMAIL].
-
-As a participant and community member, you are expected to uphold this code.
+As a participant and Parkology community member, you are expected to uphold this <a href="https://www.parkology.org/ParkShowPages?id=a1646000004sY3KAAU">code of conduct</a>. If you have any questions or would like to report unacceptable behavior please <a href="mailto:info@parkology.org">contact us</a>. 
 
 
 ## What we're working on
