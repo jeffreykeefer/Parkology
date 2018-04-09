@@ -20,17 +20,17 @@ Please review our [README](README.md) and Road Map to have a better understandin
 You can view tasks on how to contribute to Parkology below and in our <a href="https://github.com/jeffreykeefer/Parkology/issues">open issues</a>. 
 
 1. Visit www.parkology.org
-2. Sign up - to add to the parkology community and interact with users, first sign up on www.parkology.org 
+2. Sign up - to add to the parkology community and interact with users, first sign up on www.parkology.org. 
 3. <a href="https://www.parkology.org/ParkChatterGroupsList">Groups</a> - Join a group that you are interested in adding to or a topic that you are interested in learning more about. Post a comment, question, or resource to the group. 
-4. <a href="https://www.parkology.org/ParkTopics?id=0TO46000000PFpHGAW">Q&A</a> - post a question to the community about stewarding, creating, programming, etc a greenspace or local park
-7. <a href="https://www.parkology.org/ParkStories">Park Stories</a> - Read, comment, or upload your own experience with creating and stewarding local parks
-8. <a href="https://www.parkology.org/ParkEvents">Events</a> - RSVP for an upcoming event or create on of your own
-9. Invite a friend to join the community that is interested in advocating for and supporting local greenspace 
+4. <a href="https://www.parkology.org/ParkTopics?id=0TO46000000PFpHGAW">Q&A</a> - post a question to the community about stewarding, creating, programming, etc a greenspace or local park.
+7. <a href="https://www.parkology.org/ParkStories">Park Stories</a> - Read, comment, or upload your own experience with creating and stewarding local parks.
+8. <a href="https://www.parkology.org/ParkEvents">Events</a> - RSVP for an upcoming event or create on of your own.
+9. Invite a friend to join the community that is interested in advocating for and supporting local greenspace.
 
 
 ## We appreciate your feedback
 
-Notice a mistake? Please file any bugs, comments, or questions in our issue tracker [LINK TO ISSUE TRACKER] or by emailing us at <a href="mailto:info@parkology.org">info@parkology.org</a>. 
+We're always looking to improve. Please file any bugs, comments, or questions <a href="https://github.com/jeffreykeefer/Parkology/issues">by creating a new issue</a> or by emailing us at <a href="mailto:info@parkology.org">info@parkology.org</a>. 
 
 
 ## Learning Github
