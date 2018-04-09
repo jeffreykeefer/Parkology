@@ -13,4 +13,4 @@ Parkology moderators are responsible for clarifying the standards of acceptable 
 
 
 ## Questions?
-Feel free to <a href=:"mailto:info@parkology.org">contact us</a> for any questions or concerns.
+Feel free to <a href="mailto:info@parkology.org">contact us</a> for any questions or concerns.
