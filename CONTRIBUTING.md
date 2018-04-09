@@ -7,7 +7,7 @@ Thank you for taking the time to contribute to Parkology. The following is a set
 
 ## Participation guidelines
 
-As a participant and Parkology community member, you are expected to uphold this <a href="https://www.parkology.org/ParkShowPages?id=a1646000004sY3KAAU">code of conduct</a>. If you have any questions or would like to report unacceptable behavior please <a href="mailto:info@parkology.org">contact us</a>. 
+As a participant and Parkology community member, you are expected to uphold this [code of conduct](Code_of_Conduct.md). If you have any questions or would like to report unacceptable behavior please <a href="mailto:info@parkology.org">contact us</a>. 
 
 
 ## Resources
