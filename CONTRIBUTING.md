@@ -1,4 +1,4 @@
-# Contributing to [Project]
+# Contributing to Parkology
 
 Add a bit of welcome and cheer at the top
 >Thank you for your interest in contributing to [Project] :tada:! 
