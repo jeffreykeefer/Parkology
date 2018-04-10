@@ -8,7 +8,7 @@ The following is a set of guidelines and suggestions for contributing to www.par
 
 As a participant and Parkology community member, you are expected to uphold this [code of conduct](Code of Conduct.md). Additionally, you can view our [License](License.md) that further describes the rights of our contributors. 
 
-If you have any questions or would like to report unacceptable behavior please <a href="mailto:info@parkology.org">contact us</a>. 
+If you have any questions please <a href="mailto:info@parkology.org">contact us</a>. 
 
 
 ## Resources
@@ -16,7 +16,7 @@ If you have any questions or would like to report unacceptable behavior please <
 Please review our [README](README.md) and Road Map to have a better understanding of this project. 
 
 
-## How to participate in the Parkology community
+## How to participate
 
 You can view tasks on how to contribute to Parkology below and in our <a href="https://github.com/jeffreykeefer/Parkology/issues">open issues</a>. 
 
