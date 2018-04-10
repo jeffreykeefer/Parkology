@@ -1,13 +1,13 @@
 # Contributing to Parkology
 
-Thank you for taking the time to contribute to Parkology. The following is a set of guidelines and suggestions for contributing to www.parkology.org. While you interact with our online community, feel free to propose changes to this file. 
+The following is a set of guidelines and suggestions for contributing to www.parkology.org. While you interact with our online community, feel free to propose changes to this file. 
 
 >Together, we can support communities to improve their local green spaces and increase access to quality, close to home parks.
 
 
 ## Participation guidelines
 
-As a participant and Parkology community member, you are expected to uphold this [code of conduct](Code of Conduct.md). Additionally, you can view our [License](License.md) that further describes the rights of our contributors. 
+As a participant and Parkology community member, you are expected to uphold this [Code of Conduct](Code of Conduct.md). Additionally, you can view our [License](License.md) that further describes the rights of our contributors. 
 
 If you have any questions or would like to report unacceptable behavior please <a href="mailto:info@parkology.org">contact us</a>. 
 
