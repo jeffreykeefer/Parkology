@@ -34,9 +34,9 @@ You can view tasks on ways to contribute to Parkology in our <a href="https://gi
 We're always looking to improve! Please file any bugs, comments, or questions <a href="https://github.com/jeffreykeefer/Parkology/issues">by creating a new issue</a> or by emailing us at <a href="mailto:info@parkology.org">info@parkology.org</a>. 
 
 
-## Learning Github
+## Parkology & Github
 
-> All contributions to Parkology can be found and completed on www.parkology.org, if you wish to navigate our list of issues to contribute on Github, here is an example GitHub workflow from Node.js's [instructions for code contributions](https://github.com/nodejs/node/blob/master/CONTRIBUTING.md#code-contributions).
+All contributions to Parkology can be completed directly on its site www.parkology.org. However, if you wish to navigate our list of issues to contribute through and/or learn Github, here is an example workflow from Node.js's [instructions for code contributions](https://github.com/nodejs/node/blob/master/CONTRIBUTING.md#code-contributions).
 
 > First time contributing to open source? Check out this *free* series, [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github).
 
