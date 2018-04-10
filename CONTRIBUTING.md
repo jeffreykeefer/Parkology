@@ -2,7 +2,7 @@
 
 The following is a set of guidelines and suggestions for contributing to www.parkology.org. While you interact with our online community, feel free to propose changes to this file. 
 
->Together, we can support communities to share ideas, tools, and resources to help improve their local green spaces and increase access to quality, close to home parks within a 10-minute walk.
+>All residents of urban communities will be able to share ideas, tools, and resources and be empowered to promote access to a quality park within a 10-minute walk from home.
 
 ## Participation guidelines
 
