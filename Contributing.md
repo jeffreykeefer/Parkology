@@ -18,7 +18,7 @@ Please review our [README](README.md) and Road Map to have a better understandin
 
 ## How to participate
 
-You can view tasks on how to contribute to Parkology below and in our <a href="https://github.com/jeffreykeefer/Parkology/issues">open issues</a>. 
+You can view tasks on ways to contribute to Parkology in our <a href="https://github.com/jeffreykeefer/Parkology/issues">open issues</a>. The summary of them to help you get started are below: 
 
 1. Visit www.parkology.org
 2. Sign up - to add to the parkology community and interact with users, first sign up on www.parkology.org. 
@@ -31,7 +31,7 @@ You can view tasks on how to contribute to Parkology below and in our <a href="h
 
 ## We appreciate your feedback
 
-We're always looking to improve. Please file any bugs, comments, or questions <a href="https://github.com/jeffreykeefer/Parkology/issues">by creating a new issue</a> or by emailing us at <a href="mailto:info@parkology.org">info@parkology.org</a>. 
+We're always looking to improve! Please file any bugs, comments, or questions <a href="https://github.com/jeffreykeefer/Parkology/issues">by creating a new issue</a> or by emailing us at <a href="mailto:info@parkology.org">info@parkology.org</a>. 
 
 
 ## Learning Github
