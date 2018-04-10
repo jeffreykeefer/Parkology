@@ -7,7 +7,7 @@ The following is a set of guidelines and suggestions for contributing to www.par
 
 ## Participation guidelines
 
-As a participant and Parkology community member, you are expected to uphold this [Code of Conduct](Code of Conduct.md). Additionally, you can view our [License](License.md) that further describes the rights of our contributors. 
+As a participant and Parkology community member, you are expected to uphold this [code of conduct](Code of Conduct.md). Additionally, you can view our [License](License.md) that further describes the rights of our contributors. 
 
 If you have any questions or would like to report unacceptable behavior please <a href="mailto:info@parkology.org">contact us</a>. 
 
