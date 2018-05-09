@@ -2,7 +2,7 @@
 Parkology will be the open, online community to share ideas, tools, and resources for people who love quality parks within a 10-Minute Walk from home.
 
 # Welcome!
-Thank you for visiting <i><a href="www.parkology.org">Parkology</a>: An Open Online Community for People Who Love Parks</i>. This work is part of our participation in the <a href="https://mozilla.github.io/leadership-training/">Mozilla Open Leaders, Round 5</a> initiative.
+Thank you for visiting <i><a href="https://www.parkology.org">Parkology</a>: An Open Online Community for People Who Love Parks</i>. This work is part of our participation in the <a href="https://mozilla.github.io/leadership-training/">Mozilla Open Leaders, Round 5</a> initiative.
 
 # What are we doing?
 <b> The problem:</b> 
